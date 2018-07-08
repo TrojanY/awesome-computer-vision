@@ -8,3 +8,18 @@ A curated list for awesome model implement for computer vision
   
 - Pretrained Model
   - [keras-models](https://github.com/fizyr/keras-models) - Repository for shared Keras models.
+  
+  - tensorflow
+    - https://github.com/tensorflow/models 
+    - https://github.com/tensorflow/models/tree/master/slim
+
+  - Torch
+    - https://github.com/facebook/fb.resnet.torch
+
+  - PyTorch
+    - https://github.com/Cadene/tensorflow-model-zoo.torch 
+    - https://github.com/Cadene/pretrained-models.pytorch
+
+  - Caffe
+    - https://github.com/BVLC/caffe/wiki/Model-Zoo 
+    - https://github.com/soeaver/caffe-model
